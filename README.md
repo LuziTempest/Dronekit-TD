@@ -55,3 +55,6 @@ Buat sebuah **website** yang memiliki fungsi-fungsi berikut:
   - **Current Mission**
 
 #### Kirim hasil Tampilan Website pada folder `/img` dan demokan tiap-tiap fungsi.
+
+## Modul
+https://github.com/LuziTempest/magang-dronekit.git
